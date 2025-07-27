@@ -36,7 +36,7 @@ A full-stack application to backtest custom equity strategies using fundamental 
 ## 🧰 Setup Instructions
 
 1. Clone the Repository
-git clone https://github.com/your-username/backtesting-platform.git
+git clone https://github.com/blaze964/backtesting-platform.git
 cd backtesting-platform
 
 2. Set Up the Backend
